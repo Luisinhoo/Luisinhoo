@@ -1,4 +1,4 @@
-# <img src="https://media1.tenor.com/m/RuQw_TQ24uwAAAAC/anime.gif" width="90" height="90" valign="middle"> - Olá, me chamo Luís Henrique
+# <img src="https://media1.tenor.com/m/RuQw_TQ24uwAAAAC/anime.gif" width="90" height="90" valign="middle"> - Olá! :3
 
 **`Desenvolvedor Back-End`**
 
