@@ -77,5 +77,5 @@ Sobre mim: Me chamo Luís Henrique Gonçalves de Oliveira, tenho 22 anos e sou n
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=55960C&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+perfil+!+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&color=FF7518&lines=Bem-vindo(a)+ao+meu+perfil!+:)" alt="Typing SVG" />
 </p>
