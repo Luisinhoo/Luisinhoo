@@ -1,7 +1,5 @@
 # <img src="https://media1.tenor.com/m/RuQw_TQ24uwAAAAC/anime.gif" width="90" height="90" valign="middle"> - Olá! :3
 
-**`Desenvolvedor Back-End`**
-
 Sobre mim: Me chamo Luís Henrique Gonçalves de Oliveira, tenho 22 anos e sou natural de Uberlândia - Minas Gerais (MG). Graduando em Ciência da Computação pela Universidade Federal de Uberlândia (UFU). Gosto muito de tecnologia e busco sempre aprimorar minhas habilidades de programação e ponderar sobre seus conceitos.
 
 <p align="left">
